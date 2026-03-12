@@ -1,93 +1,118 @@
-# Keewee — Which Matcha Are You?
 
-> Do you wanna try a fun, interactive personality quiz that matches you to one of 16 unique matcha drinks based on your vibe, aesthetic, and personality.
+<div align="center">
 
-**[✨ Try it out →](https://blinh0405.github.io/keewee-quiz/)**
+# 🍵 keewee
 
----
+### *which matcha are you?*
 
-## About
-
-**Keewee** is a matcha + cookies brand built by Blinh and Mike around the idea that every person has a matcha or s cookie flavor that's destined for them. This quiz uses 12 fun, creative questions to find your perfect match(a) from a menu of 16 handcrafted drinks.
-
-Built as both a **portfolio project** and a real **marketing tool** for the Keewee matcha business.
+[![Live Demo](https://img.shields.io/badge/✨_try_the_quiz-live_demo-a8d5b5?style=for-the-badge)](https://blinh0405.github.io/keewee-quiz/)
+&nbsp;
+[![Made with love](https://img.shields.io/badge/made_with-love_&_matcha-fce8e4?style=for-the-badge)](#)
 
 ---
 
-##  Features
+*a personality quiz that finds your perfect matcha match from 16 handcrafted drinks* 🌿
 
--  **12 personality questions** - fun, outside-the-box, Gen Z energy
--  **16 unique results** — each matched to a real Keewee menu item with its own personality description
--  **Fully responsive** — looks great on mobile and desktop
--  **Custom design** — clean-girl aesthetic inspired by Clairo, Hailey Bieber & NewJeans
--  **Native share** — share your result on mobile, copy-to-clipboard on desktop
--  **Pure HTML/CSS/JS** — no frameworks, no build tools, just clean code
+</div>
 
 ---
 
-## Project Structure
+<div align="center">
+
+![Keewee matcha station](matcha_station.jpg)
+
+*the station where the magic happens ✦*
+
+</div>
+
+---
+
+## ✨ what is this?
+
+**Keewee** is a matcha + cookies brand by **Blinh & Mike** — built on the belief that every person has a matcha (or cookie flavor) that's *destined* for them.
+
+This quiz asks you 12 fun, outside-the-box questions — think Hogwarts houses, dream vacations, and 11pm habits — then matches you to one of **16 handcrafted Keewee drinks**.
+
+> built as a **portfolio project** + a real **marketing tool** for the Keewee brand 🍵
+
+---
+
+## 🌸 features
+
+| | |
+|---|---|
+| 🎯 | **12 personality questions** — fun, gen z, zero boring answers |
+| 🍵 | **16 unique results** — each matched to a real menu item |
+| 📱 | **fully responsive** — designed for your phone first |
+| 🤍 | **clean-girl aesthetic** — inspired by Clairo, Hailey Bieber & NewJeans |
+| 📤 | **native share** — share your result straight from your phone |
+| ⚡ | **pure HTML/CSS/JS** — no frameworks, no fluff, just clean code |
+
+---
+
+## 🗂 project structure
 
 ```
 keewee-quiz/
-├── index.html          ← main HTML
+├── index.html          ← everything lives here
 ├── css/
-│   └── style.css       ← all styles + animations
+│   └── style.css       ← styles + animations
 ├── js/
-│   └── quiz.js         ← quiz logic, questions, drink data
+│   └── quiz.js         ← quiz logic + all 16 drink personalities
 ├── images/
 │   └── *.jpg           ← 16 drink photos
-└── README.md           ← you're here!
+└── README.md           ← you're here! ✦
 ```
 
 ---
 
-## How to Run Locally
+## 🚀 run it locally
 
-No installation needed — just open `index.html` in your browser:
+no installation needed — just clone and open:
 
 ```bash
-git clone https://github.com/yourusername/keewee-quiz.git
+git clone https://github.com/blinh0405/keewee-quiz.git
 cd keewee-quiz
-open index.html   # Mac
-# or double-click index.html on Windows
+open index.html
 ```
 
 ---
 
-## Deploy to GitHub Pages (Free Hosting)
+## 🛠 built with
 
-1. Push this folder to a GitHub repo
-2. Go to **Settings → Pages**
-3. Set source to **"Deploy from branch" → main → / (root)**
-4. Your site goes live at `https://yourusername.github.io/keewee-quiz` 
-
----
-
-## Built With
-
-- **HTML5** — semantic structure
-- **CSS3** — custom properties, animations, backdrop-filter, responsive grid
-- **Vanilla JavaScript** — quiz engine, scoring algorithm, DOM manipulation
+- **HTML5** — clean semantic structure
+- **CSS3** — custom properties, animations, frosted glass, responsive grid
+- **Vanilla JavaScript** — quiz engine, tag-based scoring algorithm, DOM magic
 - **Google Fonts** — Instrument Serif + Nunito
-- No frameworks. No dependencies. Just fundamentals done well.
+- no frameworks. no dependencies. just fundamentals done well ✦
 
 ---
 
-## Design
+## 🎨 design direction
 
-The visual direction is **clean-girl soft**: warm cream backgrounds, matcha greens, frosted glass card, subtle grain texture, and fluid animations. Inspired by the effortless aesthetic of Clairo, Hailey Bieber, and NewJeans.
+**clean-girl soft** — warm cream backgrounds, matcha greens, frosted glass card, subtle grain texture, and fluid animations. every detail is intentional.
 
----
-
-## About the Developer
-
-Made with love by **[Blinh]** — aspiring developer and matcha enthusiast.
-
-- GitHub: [@blinh0405]([https://github.com/yourusername](https://github.com/blinh0405))
-- Instagram: [@keewee]([https://instagram.com/](https://www.instagram.com/keeweesmatcha))
+*inspired by the effortless aesthetic of Clairo, Hailey Bieber, and NewJeans* 🌷
 
 ---
 
-*Keewee — matcha for every mood. *
+## 👩‍💻 about
+
+made with love by **Blinh** — aspiring developer & matcha enthusiast
+
+[![GitHub](https://img.shields.io/badge/github-@blinh0405-1c2b22?style=flat-square&logo=github)](https://github.com/blinh0405)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/instagram-@keeweesmatcha-fce8e4?style=flat-square&logo=instagram&logoColor=b05a5a)](https://www.instagram.com/keeweesmatcha)
+
+---
+
+<div align="center">
+
+*keewee — matcha for every mood* 🍵✨
+
+</div>
+
+
+
 
 
