@@ -139,13 +139,13 @@ const DRINKS = [
 // 12 fun questions — each choice awards a tag
 const QUESTIONS = [
   {
-    emoji: "⚡",
-    text: "What Hogwarts house are you?",
+    emoji: "✈️",
+    text: "It's a long flight. You're:",
     choices: [
-      { icon: "🦁", text: "Gryffindor — bold, brave, first to jump in", tags: ["bold", "fun"] },
-      { icon: "🦡", text: "Hufflepuff — loyal, cozy, everyone's comfort person", tags: ["cozy", "nostalgic"] },
-      { icon: "🦅", text: "Ravenclaw — curious, aesthetic, always reading something obscure", tags: ["artsy", "unique"] },
-      { icon: "🐍", text: "Slytherin — strategic, cool, effortlessly intimidating", tags: ["cool", "deep"] }
+      { icon: "😴", text: "Asleep within 10 mins, no thoughts", tags: ["calm", "cozy"] },
+      { icon: "🎬", text: "Watching 3 films back to back, fully committed", tags: ["fun", "social"] },
+      { icon: "📓", text: "Journaling and making lists for my life reset", tags: ["artsy", "minimal"] },
+      { icon: "🗣️", text: "Talking to the person next to me, new best friend", tags: ["bold", "social"] }
     ]
   },
   {
