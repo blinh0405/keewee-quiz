@@ -1,31 +1,31 @@
-# 🍵 Keewee — Which Matcha Are You?
+# Keewee — Which Matcha Are You?
 
-> A fun, interactive personality quiz that matches you to one of 16 unique matcha drinks based on your vibe, aesthetic, and personality.
+> Do you wanna try a fun, interactive personality quiz that matches you to one of 16 unique matcha drinks based on your vibe, aesthetic, and personality.
 
-**[✨ Live Demo →](https://yourusername.github.io/keewee-quiz)**
+**[✨ Try it out →](https://blinh0405.github.io/keewee-quiz/)**
 
 ---
 
-## 🌿 About
+## About
 
-**Keewee** is a matcha brand built around the idea that every person has a matcha that's meant for them. This quiz uses 12 fun, creative questions — from your Hogwarts house to your dream vacation — to find your perfect match(a) from a menu of 16 handcrafted drinks.
+**Keewee** is a matcha + cookies brand built by Blinh and Mike around the idea that every person has a matcha or s cookie flavor that's destined for them. This quiz uses 12 fun, creative questions to find your perfect match(a) from a menu of 16 handcrafted drinks.
 
 Built as both a **portfolio project** and a real **marketing tool** for the Keewee matcha business.
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🎯 **12 personality questions** — fun, outside-the-box, Gen Z energy
-- 🍵 **16 unique results** — each matched to a real Keewee menu item with its own personality description
-- 📱 **Fully responsive** — looks great on mobile and desktop
-- 🎨 **Custom design** — clean-girl aesthetic inspired by Clairo, Hailey Bieber & NewJeans
-- 📤 **Native share** — share your result on mobile, copy-to-clipboard on desktop
-- ⚡ **Pure HTML/CSS/JS** — no frameworks, no build tools, just clean code
+-  **12 personality questions** - fun, outside-the-box, Gen Z energy
+-  **16 unique results** — each matched to a real Keewee menu item with its own personality description
+-  **Fully responsive** — looks great on mobile and desktop
+-  **Custom design** — clean-girl aesthetic inspired by Clairo, Hailey Bieber & NewJeans
+-  **Native share** — share your result on mobile, copy-to-clipboard on desktop
+-  **Pure HTML/CSS/JS** — no frameworks, no build tools, just clean code
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 
 ```
 keewee-quiz/
@@ -41,7 +41,7 @@ keewee-quiz/
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 No installation needed — just open `index.html` in your browser:
 
@@ -54,16 +54,16 @@ open index.html   # Mac
 
 ---
 
-## 🌐 Deploy to GitHub Pages (Free Hosting)
+## Deploy to GitHub Pages (Free Hosting)
 
 1. Push this folder to a GitHub repo
 2. Go to **Settings → Pages**
 3. Set source to **"Deploy from branch" → main → / (root)**
-4. Your site goes live at `https://yourusername.github.io/keewee-quiz` 🎉
+4. Your site goes live at `https://yourusername.github.io/keewee-quiz` 
 
 ---
 
-## 🛠 Built With
+## Built With
 
 - **HTML5** — semantic structure
 - **CSS3** — custom properties, animations, backdrop-filter, responsive grid
@@ -73,19 +73,21 @@ open index.html   # Mac
 
 ---
 
-## 🎨 Design
+## Design
 
 The visual direction is **clean-girl soft**: warm cream backgrounds, matcha greens, frosted glass card, subtle grain texture, and fluid animations. Inspired by the effortless aesthetic of Clairo, Hailey Bieber, and NewJeans.
 
 ---
 
-## 👩‍💻 About the Developer
+## About the Developer
 
-Made with love by **[Your Name]** — aspiring developer and matcha enthusiast.
+Made with love by **[Blinh]** — aspiring developer and matcha enthusiast.
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Instagram: [@keewee](https://instagram.com/)
+- GitHub: [@blinh0405]([https://github.com/yourusername](https://github.com/blinh0405))
+- Instagram: [@keewee]([https://instagram.com/](https://www.instagram.com/keeweesmatcha))
 
 ---
 
-*Keewee — matcha for every mood. 🍵*
+*Keewee — matcha for every mood. *
+
+
